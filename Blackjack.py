@@ -1,4 +1,4 @@
-# link to download card images:
+# to add card images download file and put card image file and below code in same directory  
 
 import random
 try:
